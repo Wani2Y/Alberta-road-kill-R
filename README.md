@@ -3,7 +3,7 @@
 ## project "Alberta Wildlife Watch"
 This is just a personal project for fun :D
 
-![Geospatial Map](https://github.com/Wani2Y/Alberta-road-kill-R/blob/main/Alberta_roadkill_20204_toner.tiff)
+![Geospatial Map of Alberta Roadkill in 2020](https://github.com/user-attachments/assets/018da77a-ce61-464d-8257-363701f1132d)
 
 ## Description
 This project organised and analysed the taxonomy, location, and time of animal carcass found in Alberta, Canada.
