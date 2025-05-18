@@ -1,7 +1,7 @@
 # R and SQL
 
 ## project "Alberta Wildlife Watch"
-This is just a personal project for fun :D
+This is just a personal project to demonstrate how data analytics can facilitate policy making.
 
 ![Geospatial Map of Alberta Roadkill in 2020](https://github.com/user-attachments/assets/018da77a-ce61-464d-8257-363701f1132d)
 
